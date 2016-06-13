@@ -16,11 +16,5 @@
   <!-- robot Js -->
   <script src="<?php bloginfo('template_directory'); ?>/js/robot.js"></script>
   <?php wp_footer(); ?>
-  <!-- 判断用户是否还在使用IE6 -->
-  <?php if(strstr($_SERVER["HTTP_USER_AGENT"], "MSIE 6.0") ) : ?>  
-    <script type="text/javascript">
-      alert("你丫的，还在用 Internet Explorer 6 ? 赶快去升级吧!")
-    </script>
-  <?php endif; ?>
-</body>
+  </body>
 </html>

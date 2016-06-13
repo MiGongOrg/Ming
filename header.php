@@ -50,6 +50,10 @@
       s.parentNode.insertBefore(hm, s);
     })();
   </script>
+  <!--[if lte IE 8]>
+    <link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/ie-blocker/ie-blocker.css">
+    <script src="<?php bloginfo('template_directory'); ?>/ie-blocker/ie-blocker.zhCN.js"></script>
+  <![endif]-->
 </head>
 <!--刷新缓存,用于提高程序运行效率-->
 <?php flush(); ?>
