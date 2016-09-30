@@ -33,7 +33,7 @@
     <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
-  <script src="http://ajax.useso.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=3.4.2"></script>
+  <script src="http://libs.baidu.com/jquery/1.7.2/jquery.min.js?ver=3.4.2"></script>
   <!-- Bootstrap 核心 JavaScript 文件 -->
   <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
   <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
