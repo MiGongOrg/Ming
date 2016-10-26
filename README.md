@@ -1,6 +1,6 @@
 # Ming
-Migong.Org Wordpress Template
+Ming Wordpress Template
 
-## Template name:Ming
+## 我的第一个 Wordpress Template
 
-Demo:http://www.migong.org
+[Demo](http://www.migong.org)
